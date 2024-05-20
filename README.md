@@ -1,4 +1,4 @@
-# Infant Mortality Dataset README
+# EDA for Infant Mortality 
 
 ## Dataset Information
 This dataset consists of a pandas DataFrame containing 48 entries and 9 columns. It offers insights into infant mortality rates and associated statistics categorized by year and maternal race or ethnicity.
