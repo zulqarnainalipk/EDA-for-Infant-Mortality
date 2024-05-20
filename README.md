@@ -35,7 +35,7 @@ This dataset consists of a pandas DataFrame containing 48 entries and 9 columns.
 
 ### Filling of Missing Values
 Missing values are filled using the average values of each respective column to maintain data consistency and accuracy without significant alterations.
-👉 [check this project on Kaggle]([https://www.kaggle.com/zulqarnainalipk](https://www.kaggle.com/code/zulqarnainalipk/eda-for-infant-mortality)) 👈
+👉 [check this project on Kaggle](https://www.kaggle.com/code/zulqarnainalipk/eda-for-infant-mortality) 👈
 
 ## Usage
 To utilize this dataset:
