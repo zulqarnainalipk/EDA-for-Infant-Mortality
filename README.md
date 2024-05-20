@@ -1,4 +1,23 @@
-# EDA for Infant Mortality 
+#  Exploratory Data Analysis (EDA) for Infant Mortality
+
+## **Overview:**
+This project focuses on conducting exploratory data analysis (EDA) on infant mortality data. The dataset provides insights into infant mortality rates and related statistics categorized by year and maternal race or ethnicity.
+
+## **Objective:**
+The primary objective of this project is to gain a deeper understanding of infant mortality trends and disparities across different maternal racial or ethnic groups. By analyzing the dataset, we aim to uncover patterns, trends, and relationships that can inform public health policies and interventions aimed at reducing infant mortality rates.
+
+## **Approach:**
+The project will involve analyzing various aspects of the dataset, including:
+- Exploring trends in infant mortality rates over time.
+- Investigating differences in mortality rates among different racial or ethnic groups.
+- Identifying factors that may contribute to variations in infant mortality rates.
+- Examining the relationship between the number of live births and infant mortality rates.
+
+## **Tools and Techniques:**
+We will utilize Python programming language along with libraries such as pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization. Exploratory data analysis techniques such as data visualization, statistical analysis, and data summarization will be employed to uncover insights from the dataset.
+
+
+
 
 ## Dataset Information
 This dataset consists of a pandas DataFrame containing 48 entries and 9 columns. It offers insights into infant mortality rates and associated statistics categorized by year and maternal race or ethnicity.
